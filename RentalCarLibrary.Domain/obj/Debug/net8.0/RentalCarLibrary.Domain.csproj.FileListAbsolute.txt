@@ -1,0 +1,11 @@
+C:\Users\Samuele25\source\repos\oop-assignment-1-2024-74394\RentalCarLibrary.Domain\bin\Debug\net8.0\RentalCarLibrary.Domain.deps.json
+C:\Users\Samuele25\source\repos\oop-assignment-1-2024-74394\RentalCarLibrary.Domain\bin\Debug\net8.0\RentalCarLibrary.Domain.dll
+C:\Users\Samuele25\source\repos\oop-assignment-1-2024-74394\RentalCarLibrary.Domain\bin\Debug\net8.0\RentalCarLibrary.Domain.pdb
+C:\Users\Samuele25\source\repos\oop-assignment-1-2024-74394\RentalCarLibrary.Domain\obj\Debug\net8.0\RentalCarLibrary.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuele25\source\repos\oop-assignment-1-2024-74394\RentalCarLibrary.Domain\obj\Debug\net8.0\RentalCarLibrary.Domain.AssemblyInfoInputs.cache
+C:\Users\Samuele25\source\repos\oop-assignment-1-2024-74394\RentalCarLibrary.Domain\obj\Debug\net8.0\RentalCarLibrary.Domain.AssemblyInfo.cs
+C:\Users\Samuele25\source\repos\oop-assignment-1-2024-74394\RentalCarLibrary.Domain\obj\Debug\net8.0\RentalCarLibrary.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Samuele25\source\repos\oop-assignment-1-2024-74394\RentalCarLibrary.Domain\obj\Debug\net8.0\RentalCarLibrary.Domain.dll
+C:\Users\Samuele25\source\repos\oop-assignment-1-2024-74394\RentalCarLibrary.Domain\obj\Debug\net8.0\refint\RentalCarLibrary.Domain.dll
+C:\Users\Samuele25\source\repos\oop-assignment-1-2024-74394\RentalCarLibrary.Domain\obj\Debug\net8.0\RentalCarLibrary.Domain.pdb
+C:\Users\Samuele25\source\repos\oop-assignment-1-2024-74394\RentalCarLibrary.Domain\obj\Debug\net8.0\ref\RentalCarLibrary.Domain.dll
